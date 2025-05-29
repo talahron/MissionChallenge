@@ -1,0 +1,7 @@
+openai
+transformers
+torch
+Pillow
+gradio
+pytest
+pytest-mock
